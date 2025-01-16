@@ -2,9 +2,10 @@
 ## GitHub
 
 ### ABOUT ME
-* Name: Darkhan
-* I am a student at School 21 Yakutsk, 30 y.o;
-* Telegram: [@DarkhanSol0](https://youtu.be/dQw4w9WgXcQ?si=xmgRQdTez6IQ7aL-)
+|Name|Darkhan|
+|Nickname|thucydil AKA BruteForcer|
+|CV|I am a student at School 21 Yakutsk, 30 y.o|
+|Telegram| [@DarkhanSol0](https://youtu.be/dQw4w9WgXcQ?si=xmgRQdTez6IQ7aL-)|
 
 ### My stack (Just study it)
 * C
@@ -12,7 +13,7 @@
 * Golang
 * Python
 
-### My stack (Just study it)
+### My system
 * Linux
 * Now OpenSUSE
 
