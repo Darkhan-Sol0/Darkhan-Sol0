@@ -29,6 +29,7 @@
 |Projects|Decription|
 |:-------|:---------|
 |[s21_Brick_Game_v1](https://github.com/Darkhan-Sol0/s21_Brick_Game_v1.0-1)|Interpretation of classical puzzle video game in C|
+|[s21_Brick_Game_v2](https://github.com/Darkhan-Sol0/s21_brickgame_v2)|Interpretation of classical puzzle video game in C++ with QT|
 |[s21_maze](https://github.com/Darkhan-Sol0/s21_maze.c)|Interpretation maze painter in C|
 |[s21_containers](https://github.com/Darkhan-Sol0/s21_containers)|Interpretation standart library of containers in C++|
 |[s21_matrixplus](https://github.com/Darkhan-Sol0/s21_matrixplus)|Library contains matrix structure and some algorithms to manipulate matrices in C++|
