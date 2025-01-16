@@ -5,9 +5,9 @@
 | |ABOUT ME|
 |:-------|:---------|
 |Name|Darkhan|
-|Nickname|thucydil AKA BruteForcer|
-|What|I am a student at School 21 Yakutsk|
-|Telegram| [@DarkhanSol0](https://youtu.be/dQw4w9WgXcQ?si=xmgRQdTez6IQ7aL-)|
+|Nickname|thucydil AKA BruteForcer AKA Darkhan-Sol0|
+|ABOUT|I am a student at School 21 Yakutsk|
+|Contact| Telegram: [@DarkhanSol0](https://youtu.be/dQw4w9WgXcQ?si=xmgRQdTez6IQ7aL-) |
 
 ### My stack (Just study it)
 * C
@@ -19,6 +19,12 @@
 * Linux
 * Now OpenSUSE
 
+### My Projects
+|Projects|Decription|
+|:-------|:---------|
+|[parrot](https://github.com/Darkhan-Sol0/parrot)|Just fun it fork origin parrot|
+|[??????](https://youtu.be/dQw4w9WgXcQ?si=xmgRQdTez6IQ7aL-)|only prank|
+
 ### My Projects in School 21
 |Projects|Decription|
 |:-------|:---------|
@@ -28,12 +34,6 @@
 |[s21_matrixplus](https://github.com/Darkhan-Sol0/s21_matrixplus)|Library contains matrix structure and some algorithms to manipulate matrices in C++|
 |[s21_decimal](https://github.com/Darkhan-Sol0/s21_decimal)|Interpretation of Decimal Data Type (2^96) and functions|
 |[s21_SQL_Bootcamp](https://github.com/Darkhan-Sol0/s21_SQL_Bootcamp)|Bootcamp SQL basics|
-
-### My Projects
-|Projects|Decription|
-|:-------|:---------|
-|[parrot](https://github.com/Darkhan-Sol0/parrot)|Just fun it fork origin parrot|
-|[??????](https://youtu.be/dQw4w9WgXcQ?si=xmgRQdTez6IQ7aL-)|only prank|
 
 ### Funny Face
 ⣿⣿⣿⣿⠿⡿⠟⠛⣋⣉⣥⣤⣶⠆⢸⣿⡇⣿⣿⣿⣿⣿⡏⠻⣿⣿⣿⣿⣷⡙⡏⣿⣿⣿⣿⣿⣷⡌⢿⣷⡘⣿⣿⣿⣿⡇⣿⣿⣿⣿ ⣿⣿⣶⣿⣿⣿⢰⣿⡏⣼⣿⣿⣿⠀⢸⣿⡇⢿⣿⣿⣿⣿⡇⠇⢹⣿⣿⣿⣏⠳⠘⢹⣿⡈⢿⣿⣿⠻⡌⣿⣿⡜⣿⣿⣿⡇⣿⣿⣿⣿ ⣿⣿⣿⣿⣿⣿⢸⣿⣧⣿⣿⣿⡿⠀⠸⣿⣇⢸⠹⣿⣿⣿⣿⠀⠀⢿⣿⣿⣿⡆⠁⢸⣿⡇⡜⣿⣿⣧⠀⠸⣿⣷⡘⣿⣿⣧⣿⡟⣿⣿ ⣿⣿⣿⣿⣿⡿⢸⣿⢿⣿⣿⣿⡇⣷⡄⢻⣿⡈⠀⣿⣿⣿⣿⡆⢰⠸⣿⠿⠿⣿⠀⠘⣿⡇⣁⠸⠟⠻⠇⠀⢻⣿⣧⢹⣿⣿⣿⣿⣹⣿ ⣿⣿⣿⣿⣿⠁⡀⣿⣸⣿⣿⣿⡇⣿⣿⡌⢿⡇⠀⢹⣿⣿⣿⠓⠀⢀⣠⣴⣶⣦⣄⠂⠿⢰⣿⣦⣼⡆⢦⢀⠈⣿⣿⡆⣿⣿⣿⣿⣏⣭ ⣿⣿⣿⣿⡇⠀⠀⠸⡇⣿⣿⣿⡇⠙⠛⢿⠈⠇⢠⡘⠿⢋⣉⣀⣄⢻⠿⠛⠋⢁⣩⣥⣀⢿⣿⣿⣿⣷⠘⣾⣆⣹⣿⣿⠸⣿⣿⣿⣿⣿ ⣿⣿⣿⡿⡇⠿⠃⠀⠃⢹⣿⡿⢧⢸⣿⣿⣆⢠⡈⢣⡶⠟⠟⠟⠿⠛⢀⠤⠚⠉⠁⢀⣤⣀⣀⠉⠙⢛⡆⣿⡿⣿⣿⣿⡆⢻⣿⣿⣿⣿ ⣿⣿⣿⡇⡇⢤⣾⣿⣦⡀⣴⣶⣶⣄⣿⣿⣿⡀⠻⣷⣾⣿⣿⣿⡶⡠⠋⢀⣀⣠⡾⣸⣿⣿⣿⣿⣆⠀⣄⢸⡇⣿⣿⣿⣷⠈⣿⣿⣿⣿ ⣿⠿⠿⠧⠀⢸⣿⡿⠟⠛⠉⠉⠉⠁⠙⢿⣿⣷⢀⣿⣿⣿⣿⣿⣿⠀⣠⣌⣙⢛⣵⣿⣿⣿⣿⣿⠇⣸⣿⢸⠃⣿⡏⣿⣿⡆⠸⣿⣿⣿ ⣤⣾⣷⠀⠈⠘⠋⠀⣀⣤⠀⣀⠀⠀⢀⣨⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⠟⠋⠉⣀⣀⣀⢈⡤⣪⣈⢻⠘⠀⣿⡇⣿⣿⣇⠀⢻⣿⣿ ⣿⣿⡟⠀⡀⠀⠀⣾⣿⣿⣷⣌⣛⣉⣼⣿⣿⡏⢿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠀⣠⠎⣭⢟⡹⢋⠜⠐⡡⠋⢠⡀⢻⢰⣿⣿⣿⢰⡈⢿⣿ ⣿⣿⢳⠀⣿⣦⠀⢙⡿⠛⢋⠉⣩⠍⣹⡿⣡⣾⣎⣿⣿⣿⣿⣿⣟⠁⣠⣤⢞⣡⣾⡿⢋⡴⡱⠂⢀⠔⣴⣿⣧⡈⣼⢻⣿⣿⢸⣷⠀⢿ ⣿⣿⠸⡆⠙⣿⣃⡼⢁⡴⠉⡼⢃⠆⢌⣼⣵⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣷⣟⣴⣿⢏⣴⣿⡧⠸⢸⣿⡟⣠⣿⢸⣿⣿⣿⣿⡆⢊ ⣿⣿⡄⠳⡀⢹⣿⢢⠃⣠⠖⡰⠁⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣡⣿⣿⣿⣿⣷⣿⠟⣰⠟⠁⢸⣿⣿⣿⣿⣧⠈ ⢿⣿⡇⠀⠀⠈⣹⡟⣰⢋⣼⢞⣴⣿⣿⣿⣿⣿⣿⠿⠟⣛⣫⣭⣛⠻⠿⣿⣿⡿⠏⣰⣿⣿⣿⣿⡿⠟⢁⣨⣴⡏⣰⢸⣿⣿⣧⣿⣏⡄ ⠸⣿⣧⠀⠀⠠⣄⠻⢡⣿⣯⣾⣿⣿⣿⣿⣿⠟⣡⠖⠛⠉⠉⠁⠈⠉⠓⠀⠀⠀⢰⣿⣿⣿⣿⣶⣶⣾⣿⣿⣿⡇⢹⢸⣿⣿⣿⣿⣿⣿ ⣆⢻⣿⣆⠀⠀⢻⣿⣶⣶⣿⢿⣿⣿⣷⡄⠁⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠸⠘⣿⣿⣿⣿⣿⣿ ⣿⠀⡙⠿⣧⡀⠈⢿⣿⣿⢿⡙⣿⣿⣿⣿⣆⠀⠀⣰⣦⡄⠀⢀⣤⣶⣿⣇⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⣿⣿⢹⣿⣿⢿ ⡃⠀⣿⣷⡌⠛⠶⠄⠛⠿⠶⠖⣹⣿⣿⣿⣿⣆⢀⣿⣿⣷⢀⣿⣿⣿⣿⠇⢸⣿⣿⣿⣿⣿⣿⣬⣽⣿⠟⠁⠀⠀⢀⡀⢻⣿⠘⣿⣿⣆ ⠁⣼⣿⠟⠀⠀⠀⠀⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⢸⣿⣿⡇⢸⣿⣿⡟⣋⠀⢻⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⢀⠘⠿⣘⠏⠄⡻⣿⣿ ⣤⣉⡁⠀⠂⠒⠂⠒⡆⠈⣿⡆⠙⠿⣿⣿⣿⣿⢻⣿⣿⠇⢿⣿⣿⣾⠏⠘⠂⣿⣿⣿⣿⡿⠋⠁⠀⠀⢠⠄⠀⠀⠀⠀⡟⠀⠘⢇⠈⠻ ⣿⣿⣿⣷⣦⣀⠀⠀⠀⣰⣿⠁⠀⠀⠈⠙⠿⣿⡸⣿⣿⣷⣾⣿⠟⣫⣾⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣰⠃⠀⣰⠈⢷⣶ ⣿⣿⣿⣿⣿⣿⣿⣦⣄⠉⠁⠀⠀⠀⠀⠀⠀⠈⠁⢹⣿⣿⣿⢁⣾⣿⣿⣿⠿⢋⣡⣤⠤⠀⢀⣀⣤⣤⣶⣶⣿⣿⣿⡏⠀⢀⣽⣷⣄⢻ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡱⣶⣤⣄⣀⣀⣀⣀⣀⠸⣟⣇⠸⠿⠛⠋⠁⢒⣉⣤⣴⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠁⠀⣸⣿⣿⣿⣧ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣮⠛⢿⣿⣿⣿⣿⣿⣷⠌⣿⠀⣤⣄⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⢐⣿⣿⣿⣿⣿
