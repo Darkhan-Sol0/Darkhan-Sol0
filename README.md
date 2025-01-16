@@ -2,11 +2,11 @@
 ## GitHub
 
 ### ABOUT ME
-|:-------|ABOUT ME|
+| |ABOUT ME|
 |:-------|:---------|
 |Name|Darkhan|
 |Nickname|thucydil AKA BruteForcer|
-|CV|I am a student at School 21 Yakutsk, 30 y.o|
+|What|I am a student at School 21 Yakutsk|
 |Telegram| [@DarkhanSol0](https://youtu.be/dQw4w9WgXcQ?si=xmgRQdTez6IQ7aL-)|
 
 ### My stack (Just study it)
