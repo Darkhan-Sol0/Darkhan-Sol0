@@ -2,6 +2,7 @@
 ## GitHub
 
 ### ABOUT ME
+|:-------|:---------|
 |Name|Darkhan|
 |Nickname|thucydil AKA BruteForcer|
 |CV|I am a student at School 21 Yakutsk, 30 y.o|
