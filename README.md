@@ -14,6 +14,7 @@
 * C++
 * Golang
 * Python
+* PostgreSQL
 
 ### :8ball: My system
 * :computer: Linux
@@ -24,6 +25,7 @@
 |:-------|:---------|
 |[parrot](https://github.com/Darkhan-Sol0/parrot)|Just fun it fork origin parrot|
 |[??????](https://youtu.be/dQw4w9WgXcQ?si=xmgRQdTez6IQ7aL-)|only prank|
+|[LearningGO](https://github.com/Darkhan-Sol0/mySimpleGoProject)|Nothing Special|
 
 ### :hourglass: My Projects in School 21
 |Projects|Decription|
