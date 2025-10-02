@@ -30,7 +30,6 @@
 |:-------|:---------|
 |[parrot](https://github.com/Darkhan-Sol0/parrot)|Just fun it fork origin parrot|
 |[??????](https://youtu.be/dQw4w9WgXcQ?si=xmgRQdTez6IQ7aL-)|only prank|
-|[Microservice on Golang](https://github.com/Darkhan-Sol0/simple_ms)|Microservice project|
 |[CRUD on Golang](https://github.com/Darkhan-Sol0/Simple_CRUD)|CRUDL project|
 |[OOP on Golang](https://github.com/Darkhan-Sol0/simple_oop_golang)|Interpritation OOP on Golang|
 
