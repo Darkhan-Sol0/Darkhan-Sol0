@@ -32,6 +32,7 @@
 |[??????](https://youtu.be/dQw4w9WgXcQ?si=xmgRQdTez6IQ7aL-)|only prank|
 |[CRUD on Golang](https://github.com/Darkhan-Sol0/Simple_CRUD)|CRUDL project|
 |[OOP on Golang](https://github.com/Darkhan-Sol0/simple_oop_golang)|Interpritation OOP on Golang|
+|[Tic Tie Toe](https://github.com/Darkhan-Sol0/tic_tie_toe)|Tic tie toe game on golang|
 
 ### :hourglass: My Projects in School 21
 |Projects|Decription|
