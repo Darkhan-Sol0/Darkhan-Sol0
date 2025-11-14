@@ -25,6 +25,11 @@
 * :computer: Linux
 * I use arch btw
 
+### :godmode: My OS Projects
+|Projects|Decription|
+|:-------|:---------|
+|[simple_qb](https://github.com/Darkhan-Sol0/simple_qb)|Simple query generator for package pgx.|
+
 ### :beers: My Projects
 |Projects|Decription|
 |:-------|:---------|
